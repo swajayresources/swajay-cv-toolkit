@@ -8,7 +8,7 @@ Sources:
 - EfficientNet: Tan & Le, 2019 - https://arxiv.org/abs/1905.11946
 - Vision Transformer: Dosovitskiy et al., 2020 - https://arxiv.org/abs/2010.11929
 """
-
+#testing code review
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
